@@ -1,0 +1,87 @@
+C:\Users\NGUYEN NHAT HUYNH\OneDrive\Máy tính\ALL_SUBJECT\LAPTRINH_WINDOWS\test\SystemPharmacyManagament\SystemPharmacyManagament\bin\Debug\SystemPharmacyManagament.exe.config
+C:\Users\NGUYEN NHAT HUYNH\OneDrive\Máy tính\ALL_SUBJECT\LAPTRINH_WINDOWS\test\SystemPharmacyManagament\SystemPharmacyManagament\bin\Debug\SystemPharmacyManagament.exe
+C:\Users\NGUYEN NHAT HUYNH\OneDrive\Máy tính\ALL_SUBJECT\LAPTRINH_WINDOWS\test\SystemPharmacyManagament\SystemPharmacyManagament\bin\Debug\SystemPharmacyManagament.pdb
+C:\Users\NGUYEN NHAT HUYNH\OneDrive\Máy tính\ALL_SUBJECT\LAPTRINH_WINDOWS\test\SystemPharmacyManagament\SystemPharmacyManagament\bin\Debug\Guna.UI2.dll
+C:\Users\NGUYEN NHAT HUYNH\OneDrive\Máy tính\ALL_SUBJECT\LAPTRINH_WINDOWS\test\SystemPharmacyManagament\SystemPharmacyManagament\obj\Debug\SystemPharmacyManagament.csproj.AssemblyReference.cache
+C:\Users\NGUYEN NHAT HUYNH\OneDrive\Máy tính\ALL_SUBJECT\LAPTRINH_WINDOWS\test\SystemPharmacyManagament\SystemPharmacyManagament\obj\Debug\SystemPharmacyManagament.Form1.resources
+C:\Users\NGUYEN NHAT HUYNH\OneDrive\Máy tính\ALL_SUBJECT\LAPTRINH_WINDOWS\test\SystemPharmacyManagament\SystemPharmacyManagament\obj\Debug\SystemPharmacyManagament.Properties.Resources.resources
+C:\Users\NGUYEN NHAT HUYNH\OneDrive\Máy tính\ALL_SUBJECT\LAPTRINH_WINDOWS\test\SystemPharmacyManagament\SystemPharmacyManagament\obj\Debug\SystemPharmacyManagament.csproj.GenerateResource.cache
+C:\Users\NGUYEN NHAT HUYNH\OneDrive\Máy tính\ALL_SUBJECT\LAPTRINH_WINDOWS\test\SystemPharmacyManagament\SystemPharmacyManagament\obj\Debug\SystemPharmacyManagament.csproj.CoreCompileInputs.cache
+C:\Users\NGUYEN NHAT HUYNH\OneDrive\Máy tính\ALL_SUBJECT\LAPTRINH_WINDOWS\test\SystemPharmacyManagament\SystemPharmacyManagament\obj\Debug\SystemPharmacyManagament.csproj.CopyComplete
+C:\Users\NGUYEN NHAT HUYNH\OneDrive\Máy tính\ALL_SUBJECT\LAPTRINH_WINDOWS\test\SystemPharmacyManagament\SystemPharmacyManagament\obj\Debug\SystemPharmacyManagament.exe
+C:\Users\NGUYEN NHAT HUYNH\OneDrive\Máy tính\ALL_SUBJECT\LAPTRINH_WINDOWS\test\SystemPharmacyManagament\SystemPharmacyManagament\obj\Debug\SystemPharmacyManagament.pdb
+C:\Users\NGUYEN NHAT HUYNH\OneDrive\Máy tính\ALL_SUBJECT\LAPTRINH_WINDOWS\test\SystemPharmacyManagament\SystemPharmacyManagament\obj\Debug\SystemPharmacyManagament.frmAdmin.resources
+C:\Users\NGUYEN NHAT HUYNH\OneDrive\Máy tính\ALL_SUBJECT\LAPTRINH_WINDOWS\test\SystemPharmacyManagament\SystemPharmacyManagament\obj\Debug\SystemPharmacyManagament.Admin.UC_Dashbord.resources
+C:\Users\NGUYEN NHAT HUYNH\OneDrive\Máy tính\ALL_SUBJECT\LAPTRINH_WINDOWS\test\SystemPharmacyManagament\SystemPharmacyManagament\obj\Debug\SystemPharmacyManagament.Admin.UC_AddUser.resources
+C:\Users\NGUYEN NHAT HUYNH\OneDrive\Máy tính\Data_of_dntu\ALL_SUBJECT\LAPTRINH_WINDOWS\test\SystemPharmacyManagament\SystemPharmacyManagament\bin\Debug\SystemPharmacyManagament.exe.config
+C:\Users\NGUYEN NHAT HUYNH\OneDrive\Máy tính\Data_of_dntu\ALL_SUBJECT\LAPTRINH_WINDOWS\test\SystemPharmacyManagament\SystemPharmacyManagament\bin\Debug\SystemPharmacyManagament.exe
+C:\Users\NGUYEN NHAT HUYNH\OneDrive\Máy tính\Data_of_dntu\ALL_SUBJECT\LAPTRINH_WINDOWS\test\SystemPharmacyManagament\SystemPharmacyManagament\bin\Debug\SystemPharmacyManagament.pdb
+C:\Users\NGUYEN NHAT HUYNH\OneDrive\Máy tính\Data_of_dntu\ALL_SUBJECT\LAPTRINH_WINDOWS\test\SystemPharmacyManagament\SystemPharmacyManagament\bin\Debug\Guna.UI2.dll
+C:\Users\NGUYEN NHAT HUYNH\OneDrive\Máy tính\Data_of_dntu\ALL_SUBJECT\LAPTRINH_WINDOWS\test\SystemPharmacyManagament\SystemPharmacyManagament\obj\Debug\SystemPharmacyManagament.csproj.AssemblyReference.cache
+C:\Users\NGUYEN NHAT HUYNH\OneDrive\Máy tính\Data_of_dntu\ALL_SUBJECT\LAPTRINH_WINDOWS\test\SystemPharmacyManagament\SystemPharmacyManagament\obj\Debug\SystemPharmacyManagament.Admin.UC_AddUser.resources
+C:\Users\NGUYEN NHAT HUYNH\OneDrive\Máy tính\Data_of_dntu\ALL_SUBJECT\LAPTRINH_WINDOWS\test\SystemPharmacyManagament\SystemPharmacyManagament\obj\Debug\SystemPharmacyManagament.Admin.UC_Dashbord.resources
+C:\Users\NGUYEN NHAT HUYNH\OneDrive\Máy tính\Data_of_dntu\ALL_SUBJECT\LAPTRINH_WINDOWS\test\SystemPharmacyManagament\SystemPharmacyManagament\obj\Debug\SystemPharmacyManagament.Admin.UC_ViewUser.resources
+C:\Users\NGUYEN NHAT HUYNH\OneDrive\Máy tính\Data_of_dntu\ALL_SUBJECT\LAPTRINH_WINDOWS\test\SystemPharmacyManagament\SystemPharmacyManagament\obj\Debug\SystemPharmacyManagament.Form1.resources
+C:\Users\NGUYEN NHAT HUYNH\OneDrive\Máy tính\Data_of_dntu\ALL_SUBJECT\LAPTRINH_WINDOWS\test\SystemPharmacyManagament\SystemPharmacyManagament\obj\Debug\SystemPharmacyManagament.frmAdmin.resources
+C:\Users\NGUYEN NHAT HUYNH\OneDrive\Máy tính\Data_of_dntu\ALL_SUBJECT\LAPTRINH_WINDOWS\test\SystemPharmacyManagament\SystemPharmacyManagament\obj\Debug\SystemPharmacyManagament.Properties.Resources.resources
+C:\Users\NGUYEN NHAT HUYNH\OneDrive\Máy tính\Data_of_dntu\ALL_SUBJECT\LAPTRINH_WINDOWS\test\SystemPharmacyManagament\SystemPharmacyManagament\obj\Debug\SystemPharmacyManagament.csproj.GenerateResource.cache
+C:\Users\NGUYEN NHAT HUYNH\OneDrive\Máy tính\Data_of_dntu\ALL_SUBJECT\LAPTRINH_WINDOWS\test\SystemPharmacyManagament\SystemPharmacyManagament\obj\Debug\SystemPharmacyManagament.csproj.CoreCompileInputs.cache
+C:\Users\NGUYEN NHAT HUYNH\OneDrive\Máy tính\Data_of_dntu\ALL_SUBJECT\LAPTRINH_WINDOWS\test\SystemPharmacyManagament\SystemPharmacyManagament\obj\Debug\SystemPharmacyManagament.csproj.CopyComplete
+C:\Users\NGUYEN NHAT HUYNH\OneDrive\Máy tính\Data_of_dntu\ALL_SUBJECT\LAPTRINH_WINDOWS\test\SystemPharmacyManagament\SystemPharmacyManagament\obj\Debug\SystemPharmacyManagament.exe
+C:\Users\NGUYEN NHAT HUYNH\OneDrive\Máy tính\Data_of_dntu\ALL_SUBJECT\LAPTRINH_WINDOWS\test\SystemPharmacyManagament\SystemPharmacyManagament\obj\Debug\SystemPharmacyManagament.pdb
+C:\Users\NGUYEN NHAT HUYNH\OneDrive\Máy tính\Data_of_dntu\ALL_SUBJECT\LAPTRINH_WINDOWS\test\SystemPharmacyManagament\SystemPharmacyManagament\obj\Debug\SystemPharmacyManagament.Admin.UC_Profile.resources
+C:\Users\NGUYEN NHAT HUYNH\OneDrive\Máy tính\Data_of_dntu\ALL_SUBJECT\LAPTRINH_WINDOWS\test\SystemPharmacyManagament\SystemPharmacyManagament\obj\Debug\SystemPharmacyManagament.frmUser.resources
+C:\Users\NGUYEN NHAT HUYNH\OneDrive\Máy tính\Data_of_dntu\ALL_SUBJECT\LAPTRINH_WINDOWS\test\SystemPharmacyManagament\SystemPharmacyManagament\obj\Debug\SystemPharmacyManagament.User.US_Dashbord.resources
+C:\Users\NGUYEN NHAT HUYNH\OneDrive\Máy tính\Data_of_dntu\ALL_SUBJECT\LAPTRINH_WINDOWS\test\SystemPharmacyManagament\SystemPharmacyManagament\obj\Debug\SystemPharmacyManagament.User.US_AddMedicine.resources
+C:\Users\NGUYEN NHAT HUYNH\OneDrive\Máy tính\Data_of_dntu\ALL_SUBJECT\LAPTRINH_WINDOWS\test\SystemPharmacyManagament\SystemPharmacyManagament\obj\Debug\SystemPharmacyManagament.User.US_ViewMedicine.resources
+C:\Users\NGUYEN NHAT HUYNH\OneDrive\Máy tính\Data_of_dntu\ALL_SUBJECT\LAPTRINH_WINDOWS\test\SystemPharmacyManagament\SystemPharmacyManagament\obj\Debug\SystemPharmacyManagament.User.US_UpdateMedicine.resources
+C:\Users\NGUYEN NHAT HUYNH\OneDrive\Máy tính\Data_of_dntu\ALL_SUBJECT\LAPTRINH_WINDOWS\test\SystemPharmacyManagament\SystemPharmacyManagament\obj\Debug\SystemPharmacyManagament.User.US_ViewCheckValidity.resources
+C:\Users\NGUYEN NHAT HUYNH\OneDrive\Máy tính\Data_of_dntu\ALL_SUBJECT\LAPTRINH_WINDOWS\test\SystemPharmacyManagament\SystemPharmacyManagament\obj\Debug\SystemPharmacyManagament.User.US_SellMedicine.resources
+C:\My Data Xoan Dev\All Chuong Trinh Windown Form\SystemPharmacyManagament\SystemPharmacyManagament\bin\Debug\SystemPharmacyManagament.exe.config
+C:\My Data Xoan Dev\All Chuong Trinh Windown Form\SystemPharmacyManagament\SystemPharmacyManagament\bin\Debug\SystemPharmacyManagament.exe
+C:\My Data Xoan Dev\All Chuong Trinh Windown Form\SystemPharmacyManagament\SystemPharmacyManagament\bin\Debug\SystemPharmacyManagament.pdb
+C:\My Data Xoan Dev\All Chuong Trinh Windown Form\SystemPharmacyManagament\SystemPharmacyManagament\bin\Debug\Guna.UI2.dll
+C:\My Data Xoan Dev\All Chuong Trinh Windown Form\SystemPharmacyManagament\SystemPharmacyManagament\obj\Debug\SystemPharmacyManagament.csproj.AssemblyReference.cache
+C:\My Data Xoan Dev\All Chuong Trinh Windown Form\SystemPharmacyManagament\SystemPharmacyManagament\obj\Debug\SystemPharmacyManagament.Admin.UC_AddUser.resources
+C:\My Data Xoan Dev\All Chuong Trinh Windown Form\SystemPharmacyManagament\SystemPharmacyManagament\obj\Debug\SystemPharmacyManagament.Admin.UC_Dashbord.resources
+C:\My Data Xoan Dev\All Chuong Trinh Windown Form\SystemPharmacyManagament\SystemPharmacyManagament\obj\Debug\SystemPharmacyManagament.Admin.UC_Profile.resources
+C:\My Data Xoan Dev\All Chuong Trinh Windown Form\SystemPharmacyManagament\SystemPharmacyManagament\obj\Debug\SystemPharmacyManagament.Admin.UC_ViewUser.resources
+C:\My Data Xoan Dev\All Chuong Trinh Windown Form\SystemPharmacyManagament\SystemPharmacyManagament\obj\Debug\SystemPharmacyManagament.Form1.resources
+C:\My Data Xoan Dev\All Chuong Trinh Windown Form\SystemPharmacyManagament\SystemPharmacyManagament\obj\Debug\SystemPharmacyManagament.frmAdmin.resources
+C:\My Data Xoan Dev\All Chuong Trinh Windown Form\SystemPharmacyManagament\SystemPharmacyManagament\obj\Debug\SystemPharmacyManagament.frmUser.resources
+C:\My Data Xoan Dev\All Chuong Trinh Windown Form\SystemPharmacyManagament\SystemPharmacyManagament\obj\Debug\SystemPharmacyManagament.Properties.Resources.resources
+C:\My Data Xoan Dev\All Chuong Trinh Windown Form\SystemPharmacyManagament\SystemPharmacyManagament\obj\Debug\SystemPharmacyManagament.User.US_AddMedicine.resources
+C:\My Data Xoan Dev\All Chuong Trinh Windown Form\SystemPharmacyManagament\SystemPharmacyManagament\obj\Debug\SystemPharmacyManagament.User.US_Dashbord.resources
+C:\My Data Xoan Dev\All Chuong Trinh Windown Form\SystemPharmacyManagament\SystemPharmacyManagament\obj\Debug\SystemPharmacyManagament.User.US_SellMedicine.resources
+C:\My Data Xoan Dev\All Chuong Trinh Windown Form\SystemPharmacyManagament\SystemPharmacyManagament\obj\Debug\SystemPharmacyManagament.User.US_UpdateMedicine.resources
+C:\My Data Xoan Dev\All Chuong Trinh Windown Form\SystemPharmacyManagament\SystemPharmacyManagament\obj\Debug\SystemPharmacyManagament.User.US_ViewCheckValidity.resources
+C:\My Data Xoan Dev\All Chuong Trinh Windown Form\SystemPharmacyManagament\SystemPharmacyManagament\obj\Debug\SystemPharmacyManagament.User.US_ViewMedicine.resources
+C:\My Data Xoan Dev\All Chuong Trinh Windown Form\SystemPharmacyManagament\SystemPharmacyManagament\obj\Debug\SystemPharmacyManagament.csproj.GenerateResource.cache
+C:\My Data Xoan Dev\All Chuong Trinh Windown Form\SystemPharmacyManagament\SystemPharmacyManagament\obj\Debug\SystemPharmacyManagament.csproj.CoreCompileInputs.cache
+C:\My Data Xoan Dev\All Chuong Trinh Windown Form\SystemPharmacyManagament\SystemPharmacyManagament\obj\Debug\SystemPharmacyManagament.csproj.CopyComplete
+C:\My Data Xoan Dev\All Chuong Trinh Windown Form\SystemPharmacyManagament\SystemPharmacyManagament\obj\Debug\SystemPharmacyManagament.exe
+C:\My Data Xoan Dev\All Chuong Trinh Windown Form\SystemPharmacyManagament\SystemPharmacyManagament\obj\Debug\SystemPharmacyManagament.pdb
+D:\SystemPharmacyManagament\SystemPharmacyManagament\bin\Debug\SystemPharmacyManagament.exe.config
+D:\SystemPharmacyManagament\SystemPharmacyManagament\bin\Debug\SystemPharmacyManagament.exe
+D:\SystemPharmacyManagament\SystemPharmacyManagament\bin\Debug\SystemPharmacyManagament.pdb
+D:\SystemPharmacyManagament\SystemPharmacyManagament\bin\Debug\Guna.UI2.dll
+D:\SystemPharmacyManagament\SystemPharmacyManagament\obj\Debug\SystemPharmacyManagament.csproj.AssemblyReference.cache
+D:\SystemPharmacyManagament\SystemPharmacyManagament\obj\Debug\SystemPharmacyManagament.Admin.UC_AddUser.resources
+D:\SystemPharmacyManagament\SystemPharmacyManagament\obj\Debug\SystemPharmacyManagament.Admin.UC_Dashbord.resources
+D:\SystemPharmacyManagament\SystemPharmacyManagament\obj\Debug\SystemPharmacyManagament.Admin.UC_Profile.resources
+D:\SystemPharmacyManagament\SystemPharmacyManagament\obj\Debug\SystemPharmacyManagament.Admin.UC_ViewUser.resources
+D:\SystemPharmacyManagament\SystemPharmacyManagament\obj\Debug\SystemPharmacyManagament.Form1.resources
+D:\SystemPharmacyManagament\SystemPharmacyManagament\obj\Debug\SystemPharmacyManagament.frmAdmin.resources
+D:\SystemPharmacyManagament\SystemPharmacyManagament\obj\Debug\SystemPharmacyManagament.frmUser.resources
+D:\SystemPharmacyManagament\SystemPharmacyManagament\obj\Debug\SystemPharmacyManagament.Properties.Resources.resources
+D:\SystemPharmacyManagament\SystemPharmacyManagament\obj\Debug\SystemPharmacyManagament.User.US_AddMedicine.resources
+D:\SystemPharmacyManagament\SystemPharmacyManagament\obj\Debug\SystemPharmacyManagament.User.US_Dashbord.resources
+D:\SystemPharmacyManagament\SystemPharmacyManagament\obj\Debug\SystemPharmacyManagament.User.US_SellMedicine.resources
+D:\SystemPharmacyManagament\SystemPharmacyManagament\obj\Debug\SystemPharmacyManagament.User.US_UpdateMedicine.resources
+D:\SystemPharmacyManagament\SystemPharmacyManagament\obj\Debug\SystemPharmacyManagament.User.US_ViewCheckValidity.resources
+D:\SystemPharmacyManagament\SystemPharmacyManagament\obj\Debug\SystemPharmacyManagament.User.US_ViewMedicine.resources
+D:\SystemPharmacyManagament\SystemPharmacyManagament\obj\Debug\SystemPharmacyManagament.csproj.GenerateResource.cache
+D:\SystemPharmacyManagament\SystemPharmacyManagament\obj\Debug\SystemPharmacyManagament.csproj.CoreCompileInputs.cache
+D:\SystemPharmacyManagament\SystemPharmacyManagament\obj\Debug\SystemPharmacyManagament.csproj.CopyComplete
+D:\SystemPharmacyManagament\SystemPharmacyManagament\obj\Debug\SystemPharmacyManagament.exe
+D:\SystemPharmacyManagament\SystemPharmacyManagament\obj\Debug\SystemPharmacyManagament.pdb
